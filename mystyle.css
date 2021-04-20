@@ -5,17 +5,15 @@
   width: 50%;
 }
 
-.header img {
-  float: left;
-  width: 1000px;
-  height: 1000px;
-  background: #555;
+.header h1 {
+  position: relative;
+  top: 360px;
+  left: 200px;
 }
 
-.header h1 {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
+.header img {
+  float:inherit;
+  width: 1000px;
+  hieght: 1000px;
+  background:
 }
