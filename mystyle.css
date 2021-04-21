@@ -10,3 +10,18 @@
   top: 100px;
   left: 100px;
 }
+
+body {
+   text-align:center;
+}
+#centeredpage {
+   width:922px;
+   margin:0 auto;
+   text-align:left;
+   position:relative;
+}
+#logo {
+   position:absolute;
+   top:0;
+   left:-10px;
+}
