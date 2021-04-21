@@ -7,13 +7,13 @@
 
 .header h1 {
   position: relative;
-  top: 360px;
-  left: 200px;
+  top: 100px;
+  left: 100px;
 }
 
 .header img {
   float:inherit;
-  width: 1000px;
-  hieght: 1000px;
+  width: 18px;
+  hieght: 10px;
   background:
 }
